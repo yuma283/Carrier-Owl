@@ -1,10 +1,10 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:cs.AI'
 
 # 検索キーワード
 keywords:
         machine learning: 3
-        resnet: 3
+        deep learning: 3
         anomaly detection: 1
 
 # 通知の閾値
