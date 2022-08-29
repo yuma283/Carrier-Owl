@@ -1,11 +1,29 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.AI'
+subject: 'cat:cs.AI OR cat:cs.CL'
 
 # 検索キーワード
 keywords:
         machine learning: 3
         deep learning: 3
-        anomaly detection: 1
+        BERT: 3
+        semi-supervised learning: 3
+        top-k learning: 3
+        label distribution learning: 3
+        human association: 3
+        answer selection: 3
+        Word2Vec: 1
+        AutoEncoder: 2
+        Cycle-GAN: 2
+        metric learning: 2
+        optimal transport: 1
+        word embedding: 1
+        soft label: 1
+        data augmentation: 1
+        normalization: 1
+        mixup: 1
+        back translation: 1
+        wide network: 1
+        triplet loss: 1
 
 # 通知の閾値
 score_threshold: 0
